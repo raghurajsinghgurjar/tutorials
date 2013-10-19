@@ -1,0 +1,9 @@
+http://coreymaynard.com/blog/creating-a-restful-api-with-php/
+
+https://restful-api-design.readthedocs.org/en/latest/scope.html
+
+http://www.restapitutorial.com/
+
+http://www.ibm.com/developerworks/webservices/library/ws-restful/
+
+http://en.wikipedia.org/wiki/Representational_state_transfer

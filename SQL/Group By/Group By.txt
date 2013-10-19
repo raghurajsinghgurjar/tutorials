@@ -1,0 +1,3 @@
+http://www.sqlteam.com/article/how-to-use-group-by-in-sql-server
+
+http://www.sqlteam.com/article/how-to-use-group-by-with-distinct-aggregates-and-derived-tables
